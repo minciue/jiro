@@ -1,4 +1,7 @@
-Jiro is a light, minimalistic theme for iTerm, Terminal and console vim.
+jiro
+====
+
+A minimalistic, light theme for iTerm, Terminal and console vim.
 
 I built it out of frustration with how colorful and distracting other themes
 tend to be. Ask any designer if he'd be willing to mix up to 16 colors in a
