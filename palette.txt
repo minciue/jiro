@@ -1,0 +1,11 @@
+jiro:
+        bg:           linen                   #f7f2ee
+        fg:           ebony                   #272d2f
+        black (0):    linen                   #f7f2ee
+        red (1):      international orange    #bb3930 
+        green (2):    sap green               #4b7627 
+        yellow (3):   amber                   #e2a412 
+        blue (4):     cornflower blue         #16518c 
+        magenta (5):  spanish violet          #432376 
+        cyan (6):     teal                    #377F83 
+        white (7):    light gray              #e8e8e8
